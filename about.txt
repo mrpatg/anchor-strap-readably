@@ -1,0 +1,4 @@
+Theme name:     Anchor-Strap-Readably
+Description:    A light and pure theme thats simple at heart.
+Author name:    Patrick Godbey	
+Author site:    http://patrickg.net
