@@ -7,8 +7,7 @@
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <link href="<?php echo theme_url('/images/favicon.ico'); ?>" rel="icon" type="image/x-icon"/>
 <link href="<?php echo theme_url('/images/favicon.ico'); ?>" rel="shortcut icon" type="image/x-icon"/>
-<link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.1/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-<link href="//fonts.googleapis.com/css?family=Source+Code+Pro|Open+Sans" rel="stylesheet" type="text/css"/>
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>
 <link href="<?php echo theme_url('/css/bootstrap.min.css'); ?>" rel="stylesheet" type="text/css"/>
 <link href="<?php echo theme_url('/css/style.css'); ?>" rel="stylesheet" type="text/css"/>
 <title><?php echo page_title("Page can't be found"); ?> - <?php echo site_name(); ?></title>
